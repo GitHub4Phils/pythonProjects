@@ -9,7 +9,7 @@
 ![alt text](https://github.com/GitHub4Phils/pythonProjects/blob/master/images/hm3.png "Hangman 3")
 
 
-![alt text](https://github.com/GitHub4Phils/pythonProjects/blob/master/images/h41.png "Hangman 4")
+![alt text](https://github.com/GitHub4Phils/pythonProjects/blob/master/images/hm4.png "Hangman 4")
 
 
 ![alt text](https://github.com/GitHub4Phils/pythonProjects/blob/master/images/hm5.png "Hangman 5")
