@@ -2,7 +2,7 @@
 python solutions to some coding exercises, games and what not
 
 hangman
-[I'm an inline-style link](https://www.google.com)
+[hangman](https://github.com/GitHub4Phils/pythonProjects/blob/master/MD/hangman.md)
 
 tic tac toe
-[I'm an inline-style link](https://www.google.com)
+[tictactoe](https://github.com/GitHub4Phils/pythonProjects/blob/master/MD/tictactoe.md)
