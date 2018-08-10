@@ -6,3 +6,7 @@ python solutions to some coding exercises, games and what not
 
 
 [tic tac toe](https://github.com/GitHub4Phils/pythonProjects/blob/master/MD/tictactoe.md)
+
+
+
+[treasure hunter](https://github.com/GitHub4Phils/pythonProjects/blob/master/MD/treasurehunter.md)
